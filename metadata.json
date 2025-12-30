@@ -1,0 +1,7 @@
+{
+  "name": "Gesture Particle Morph",
+  "description": "A real-time 3D particle system that morphs into letters based on hand gestures and expands/contracts based on hand distance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
